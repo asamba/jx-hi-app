@@ -11,6 +11,6 @@ public class HiController {
 
     @GetMapping("/hi")
     public String sayHi(){
-        return "Hi - World!";
+        return "Hi - World!!";
     }
 }
